@@ -1,0 +1,14 @@
+tensorflow-gpu
+keras
+jupyterlab
+boto3
+cx-oracle
+fastapi
+streamlit
+sklearn
+pandas
+pandas-profiling
+transformers
+sklearn
+flask
+statsmodels
